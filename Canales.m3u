@@ -1,364 +1,378 @@
 #EXTM3U
 
+#EXTINF:-1, AZTECA UNO HD
+http://roedor.xyz/SrRegio-Ag/tp.php?c=7&p=3&k=srregio&f=.m3u8
+#EXTINF:-1, AZ CLIC HD
+http://roedor.xyz/SrRegio-Ag/tp.php?c=11&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1, LAS ESTRELLAS
+http://roedor.xyz/SrRegio-Ag/tp.php?c=17&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1, CANAL 5
+http://roedor.xyz/SrRegio-Ag/tp.php?c=20&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1, AZTECA 7
+http://roedor.xyz/SrRegio-Ag/tp.php?c=21&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1, NU9VE
+http://roedor.xyz/SrRegio-Ag/tp.php?c=24&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1, ONCE
+http://roedor.xyz/SrRegio-Ag/tp.php?c=25&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1, AZTECA UNO
+http://roedor.xyz/SrRegio-Ag/tp.php?c=27&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1, TELEFORMULA SD
+http://roedor.xyz/SrRegio-Ag/tp.php?c=32&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1, MEXIQUENSE TV
+http://roedor.xyz/SrRegio-Ag/tp.php?c=44&p=3&k=srregio&f=.m3u8
+#EXTINF:-1, AZ CORAZON 
+http://roedor.xyz/SrRegio-Ag/tp.php?c=70&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, AZ MUNDO
+http://roedor.xyz/SrRegio-Ag/tp.php?c=84&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, AZTECA 7 HD 
+http://roedor.xyz/SrRegio-Ag/tp.php?c=317&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, AZTECA 7 HD (2)
+http://roedor.xyz/SrRegio-Ag/tp.php?c=322&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, IMAGEN TV  
+http://roedor.xyz/SrRegio-Ag/tp.php?c=2298&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, MULTIMEDIOS MTY
+http://roedor.xyz/SrRegio-Ag/tp.php?c=2305&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, APREDNE TV
+http://roedor.xyz/SrRegio-Ag/tp.php?c=401&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, MULTIMEDIOS CDMX
+http://roedor.xyz/SrRegio-Ag/tp.php?c=1253&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1, NU9VE HD
+http://roedor.xyz/SrRegio-Ag/tp.php?c=1783&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, LAS ESTRELLAS HD
+http://roedor.xyz/SrRegio-Ag/tp.php?c=1784&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, CANAL 5 HD (2)
+http://roedor.xyz/SrRegio-Ag/tp.php?c=1785&p=3&k=srregio&f=.m3u8
+#EXTINF:-1, ONCE HD 
+http://roedor.xyz/SrRegio-Ag/tp.php?c=1942&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, MVS TV
+http://roedor.xyz/SrRegio-Ag/tp.php?c=2149&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, TVC
+http://roedor.xyz/SrRegio-Ag/tp.php?c=2156&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1, CANAL 4 
+http://roedor.xyz/SrRegio-Ag/tp.php?c=2274&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, CANAL 8
+http://roedor.xyz/SrRegio-Ag/tp.php?c=2307&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, TELEVISA PUEBLA
+http://roedor.xyz/SrRegio-Ag/tp.php?c=2312&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, A+ 
+http://roedor.xyz/SrRegio-Ag/tp.php?c=2316&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, TVMAS
+http://roedor.xyz/SrRegio-Ag/tp.php?c=2324&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, CANAL DEL CONGRESO
+http://roedor.xyz/SrRegio-Ag/tp.php?c=2331&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, MULTIMEDIOS CDMX
+http://roedor.xyz/SrRegio-Ag/tp.php?c=2352&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, IMAGEN TV HD  
+http://roedor.xyz/SrRegio-Ag/tp.php?c=2606&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, ACADEMIA
+http://roedor.xyz/SrRegio-Ag/tp.php?c=2703&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, MULTIMEDIOS HD
+http://roedor.xyz/SrRegio-Ag/tp.php?c=2882&p=3&k=srregio&f=.m3u8  
 
 
 
 
 
-#EXTINF:0 tvg-id="NASATV.us" group-title="NASA",NASA
-http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Radio",TecnoRadio
-http://node-12.zeno.fm:80/qvq7sm8mymzuv
-#EXTINF:0 tvg-id="ext" group-title="Radio",AZ CLIC HD
-http://cinematicket.club/tp2.php?c=11&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Radio",LAS ESTRELLAS
-http://cinematicket.club/tp2.php?c=17&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="Canal5.mx" group-title="Radio",CANAL 5
-http://cinematicket.club/tp2.php?c=20&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="Azteca7.mx" group-title="Radio",AZTECA 7
-http://cinematicket.club/tp2.php?c=21&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Radio",NU9VE
-http://cinematicket.club/tp2.php?c=24&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="OnceTV.mx" group-title="Radio",ONCE
-http://cinematicket.club/tp2.php?c=25&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Radio",AZTECA UNO
-http://cinematicket.club/tp2.php?c=27&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="TeleFormula.mx" group-title="Radio",TELEFORMULA SD
-http://cinematicket.club/tp2.php?c=32&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Radio",MEXIQUENSE TV
-http://cinematicket.club/tp2.php?c=44&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="AZCorazon.cl" group-title="Radio",AZ CORAZON
-http://cinematicket.club/tp2.php?c=70&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="AZMundo.cl" group-title="Radio",AZ MUNDO
-http://cinematicket.club/tp2.php?c=84&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="Azteca7.mx" group-title="Radio",AZTECA 7 HD
-http://cinematicket.club/tp2.php?c=317&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="Azteca7.mx" group-title="Radio",AZTECA 7 HD (2)
-http://cinematicket.club/tp2.php?c=322&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Radio",IMAGEN TV
-http://cinematicket.club/tp2.php?c=2298&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Radio",MULTIMEDIOS MTY
-http://cinematicket.club/tp2.php?c=2305&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Radio",APREDNE TV
-http://cinematicket.club/tp2.php?c=401&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Radio",MULTIMEDIOS CDMX
-http://cinematicket.club/tp2.php?c=1253&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Radio",NU9VE HD
-http://cinematicket.club/tp2.php?c=1783&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Radio",LAS ESTRELLAS HD
-http://cinematicket.club/tp2.php?c=1784&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="Canal5HD.mx" group-title="Radio",CANAL 5 HD (2)
-http://cinematicket.club/tp2.php?c=1785&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="OnceTV.mx" group-title="Radio",ONCE HD
-http://cinematicket.club/tp2.php?c=1942&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Radio",MVS TV
-http://cinematicket.club/tp2.php?c=2149&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="tvcen" group-title="Radio",TVC
-http://cinematicket.club/tp2.php?c=2156&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Radio",CANAL 4
-http://cinematicket.club/tp2.php?c=2274&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Radio",CANAL 8
-http://cinematicket.club/tp2.php?c=2307&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Radio",TELEVISA PUEBLA
-http://cinematicket.club/tp2.php?c=2312&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Radio",A+
-http://cinematicket.club/tp2.php?c=2316&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Radio",TVMAS
-http://cinematicket.club/tp2.php?c=2324&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Radio",CANAL DEL CONGRESO
-http://cinematicket.club/tp2.php?c=2331&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Radio",MULTIMEDIOS CDMX
-http://cinematicket.club/tp2.php?c=2352&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Radio",IMAGEN TV HD
-http://cinematicket.club/tp2.php?c=2606&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Radio",ACADEMIA
-http://cinematicket.club/tp2.php?c=2703&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="MultimediosMonterrey.mx" group-title="Radio",MULTIMEDIOS HD
-http://cinematicket.club/tp2.php?c=2882&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="Tooncast.mx" group-title="Radio",TOONCAST
-http://cinematicket.club/tp2.php?c=108&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="DiscoveryKids.mx" group-title="Radio",DISCOVERY KIDS
-http://cinematicket.club/tp2.php?c=109&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="nickelod" group-title="Radio",NICK
-http://cinematicket.club/tp2.php?c=110&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="disney-xd-blt" group-title="Radio",DISNEY XD
-http://cinematicket.club/tp2.php?c=111&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="cartoon" group-title="Radio",CARTOON NETWORK
-http://cinematicket.club/tp2.php?c=112&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="disney" group-title="Radio",DISNEY CHANNEL
-http://cinematicket.club/tp2.php?c=113&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="boomerang" group-title="Radio",BOOMERANG
-http://cinematicket.club/tp2.php?c=115&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="baby-tv" group-title="Radio",BABY TV
-http://cinematicket.club/tp2.php?c=116&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="nick-jr" group-title="Radio",NICK JR
-http://cinematicket.club/tp2.php?c=117&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="DisneyJunior.uk" group-title="Radio",DISNEY JR
-http://cinematicket.club/tp2.php?c=118&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="Nicktoons.uk" group-title="Radio",NICKTOONS SD
-http://cinematicket.club/tp2.php?c=1708&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="BABYFIRST.sp" group-title="Radio",BABY FIRST
-http://cinematicket.club/tp2.php?c=1984&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="Nick2.ar" group-title="Radio",NICK 2
-http://cinematicket.club/tp2.php?c=2147&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Radio",NAT GEO KIDS
-http://cinematicket.club/tp2.php?c=2373&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Radio",BIT ME
-http://cinematicket.club/tp2.php?c=2591&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="24dok" group-title="Radio",TBS SD
-http://cinematicket.club/tp2.php?c=81&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Radio",DE PELICULA +
-http://cinematicket.club/tp2.php?c=121&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Radio",GOLDEN +
-http://cinematicket.club/tp2.php?c=122&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="Golden.mx" group-title="Radio",GOLDEN
-http://cinematicket.club/tp2.php?c=123&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="GoldenEdge.mx" group-title="Radio",GOLDEN EDGE
-http://cinematicket.club/tp2.php?c=124&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="tnt" group-title="Radio",TNT
-http://cinematicket.club/tp2.php?c=126&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="TCM.uk" group-title="Radio",TCM
-http://cinematicket.club/tp2.php?c=128&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="Space.br" group-title="Radio",SPACE
-http://cinematicket.club/tp2.php?c=129&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="mgm-int" group-title="Radio",AMC
-http://cinematicket.club/tp2.php?c=131&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="StudioUniversal.it" group-title="Radio",STUDIO UNIVERSAL
-http://cinematicket.club/tp2.php?c=132&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="ISat.mx" group-title="Radio",I SAT
-http://cinematicket.club/tp2.php?c=135&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Radio",EUROPA CHANNEL
-http://cinematicket.club/tp2.php?c=136&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="FilmyArts.cl" group-title="Radio",FILMS & ARTS
-http://cinematicket.club/tp2.php?c=137&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="FXMovie.us" group-title="Radio",FXM
-http://cinematicket.club/tp2.php?c=138&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="FXMovie.us" group-title="Radio",FXM SD
-http://cinematicket.club/tp2.php?c=332&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="FoxSerie.de" group-title="Radio",FOX SERIES
-http://cinematicket.club/tp2.php?c=139&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Radio",MORBIDO
-http://cinematicket.club/tp2.php?c=140&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="FoxMovies.pt" group-title="Radio",FOX MOVIES
-http://cinematicket.club/tp2.php?c=146&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="CinecanalW.mx" group-title="Radio",CINECANAL
-http://cinematicket.club/tp2.php?c=149&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="CinemaxO.mx" group-title="Radio",CINEMAX
-http://cinematicket.club/tp2.php?c=158&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="mgm-int" group-title="Radio",AMC
-http://cinematicket.club/tp2.php?c=328&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="DePelicula.mx" group-title="Radio",DE PELICULA SD
-http://cinematicket.club/tp2.php?c=335&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="FoxActionHD.mx" group-title="Radio",FOX ACTION
-http://cinematicket.club/tp2.php?c=336&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="paramount" group-title="Radio",PARAMOUNT CHANNEL
-http://cinematicket.club/tp2.php?c=1726&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="FoxCinema.mx" group-title="Radio",FOX CINEMA SD
-http://cinematicket.club/tp2.php?c=1729&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="FoxClassics.mx" group-title="Radio",FOX CLASSICS SD
-http://cinematicket.club/tp2.php?c=1732&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Radio",AZ CINEMA
-http://cinematicket.club/tp2.php?c=1787&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Radio",TELEMUNDO INTERNACIONAL HD
-http://cinematicket.club/tp2.php?c=85&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="fox-crime" group-title="Radio",FOX
-http://cinematicket.club/tp2.php?c=46&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="set" group-title="Radio",SONY
-http://cinematicket.club/tp2.php?c=48&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="Warnerchannel.br" group-title="Radio",WARNER
-http://cinematicket.club/tp2.php?c=52&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="E.uk" group-title="Radio",E!
-http://cinematicket.club/tp2.php?c=55&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="Universal.uk" group-title="Radio",UNIVERSAL
-http://cinematicket.club/tp2.php?c=57&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="SCIFI.uk" group-title="Radio",SYFY
-http://cinematicket.club/tp2.php?c=59&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="FX.uk" group-title="Radio",FX
-http://cinematicket.club/tp2.php?c=60&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="AyE.mx" group-title="Radio",A&E
-http://cinematicket.club/tp2.php?c=62&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="AXN.bg" group-title="Radio",AXN
-http://cinematicket.club/tp2.php?c=64&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="Unicable.mx" group-title="Radio",UNICABLE SD
-http://cinematicket.club/tp2.php?c=66&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="Sundancechannel.hu" group-title="Radio",SUNDANCE TV
-http://cinematicket.club/tp2.php?c=69&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="TNTSeries.cl" group-title="Radio",TNT SERIES
-http://cinematicket.club/tp2.php?c=71&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="Glitz.mx" group-title="Radio",GLITZ
-http://cinematicket.club/tp2.php?c=76&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="ElGourmet.mx" group-title="Radio",GOURMET
-http://cinematicket.club/tp2.php?c=74&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="fox-life" group-title="Radio",FOX LIFE
-http://cinematicket.club/tp2.php?c=77&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="DistritoComedia.mx" group-title="Radio",DISTRITO COMEDIA SD
-http://cinematicket.club/tp2.php?c=78&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="TruTV.uk" group-title="Radio",TRUTV
-http://cinematicket.club/tp2.php?c=79&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="TLNovelas.pe" group-title="Radio",TL NOVELAS SD
-http://cinematicket.club/tp2.php?c=83&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="Lifetime.uk" group-title="Radio",LIFETIME
-http://cinematicket.club/tp2.php?c=94&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="Antena3.ro" group-title="Radio",ANTENA 3
-http://cinematicket.club/tp2.php?c=199&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="fox-hd" group-title="Radio",FOX HD
-http://cinematicket.club/tp2.php?c=201&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="WarnerHD.mx" group-title="Radio",WARNER HD
-http://cinematicket.club/tp2.php?c=205&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="Universal.uk" group-title="Radio",UNIVERSAL HD
-http://cinematicket.club/tp2.php?c=207&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="FXHD.mx" group-title="Radio",FX HD
-http://cinematicket.club/tp2.php?c=209&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="TruTVHD.mx" group-title="Radio",TRUTV HD
-http://cinematicket.club/tp2.php?c=215&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="HolaTV.us" group-title="Radio",HOLA TV HD
-http://cinematicket.club/tp2.php?c=219&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="ComedyCentral.uk" group-title="Radio",COMEDY CENTRAL
-http://cinematicket.club/tp2.php?c=340&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="ComedyCentral.uk" group-title="Radio",COMEDY CENTRAL SD
-http://cinematicket.club/tp2.php?c=341&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="Unicable.mx" group-title="Radio",UNICABLE
-http://cinematicket.club/tp2.php?c=1499&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="Maschic.mx" group-title="Radio",MAS CHIC
-http://cinematicket.club/tp2.php?c=1842&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="Atreseries.es" group-title="Radio",A3SERIES
-http://cinematicket.club/tp2.php?c=2113&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="ESPNPlus.ar" group-title="Radio",ESPN +
-http://cinematicket.club/tp2.php?c=167&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="ESPN.uk" group-title="Radio",ESPN
-http://cinematicket.club/tp2.php?c=168&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="ESPN2.mx" group-title="Radio",ESPN 2
-http://cinematicket.club/tp2.php?c=169&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="FoxSports.it" group-title="Radio",FOX SPORTS
-http://cinematicket.club/tp2.php?c=170&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="FoxSports2.mx" group-title="Radio",FOX SPORTS 2
-http://cinematicket.club/tp2.php?c=172&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Radio",TUDN
-http://cinematicket.club/tp2.php?c=174&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="FoxSports3.mx" group-title="Radio",FOX SPORTS 3
-http://cinematicket.club/tp2.php?c=178&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="Golf.sp" group-title="Radio",GOLF
-http://cinematicket.club/tp2.php?c=179&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="AyMSports.mx" group-title="Radio",AYM SPORTS
-http://cinematicket.club/tp2.php?c=180&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="ESPN3.mx" group-title="Radio",ESPN 3
-http://cinematicket.club/tp2.php?c=345&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Radio",TUDN HD (2)
-http://cinematicket.club/tp2.php?c=1049&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Radio",ADRENALINA SPORTS HD
-http://cinematicket.club/tp2.php?c=1799&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Radio",LAS
-http://cinematicket.club/tp2.php?c=2089&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Radio",HAVOC
-http://cinematicket.club/tp2.php?c=2148&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="TVCDeportes.mx" group-title="Radio",TVC DEPORTES
-http://cinematicket.club/tp2.php?c=2157&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Radio",CLARO SPORTS HD
-http://cinematicket.club/tp2.php?c=2564&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="FuelTV.pt" group-title="Radio",FUEL TV HD
-http://cinematicket.club/tp2.php?c=2587&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="id-extra" group-title="Radio",DISCOVERY ID
-http://cinematicket.club/tp2.php?c=68&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="GarageTV.es" group-title="Radio",GARAGE TV
-http://cinematicket.club/tp2.php?c=75&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="discov_rus" group-title="Radio",DISCOVERY CHANNEL
-http://cinematicket.club/tp2.php?c=86&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="animal_rus" group-title="Radio",ANIMAL PLANET
-http://cinematicket.club/tp2.php?c=88&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="history-rus" group-title="Radio",HISTORY
-http://cinematicket.club/tp2.php?c=89&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="natgeo" group-title="Radio",NAT GEO
-http://cinematicket.club/tp2.php?c=91&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="natgeowild" group-title="Radio",NAT GEO WILD
-http://cinematicket.club/tp2.php?c=92&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="DiscoveryTheatreHD.ar" group-title="Radio",DISCOVERY THEATER
-http://cinematicket.club/tp2.php?c=95&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="HomeHealthHD.mx" group-title="Radio",H&H
-http://cinematicket.club/tp2.php?c=96&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="tlc-russia" group-title="Radio",TLC
-http://cinematicket.club/tp2.php?c=97&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="discov_sci" group-title="Radio",DISCOVERY SCIENCE
-http://cinematicket.club/tp2.php?c=98&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="DiscoveryCivil.mx" group-title="Radio",DISCOVERY CIVILIZATION
-http://cinematicket.club/tp2.php?c=99&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="discov_turbo-extra" group-title="Radio",DISCOVERY WORLD
-http://cinematicket.club/tp2.php?c=101&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="TVE.se" group-title="Radio",TVE
-http://cinematicket.club/tp2.php?c=198&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="shopping-live" group-title="Radio",SHOPPING
-http://cinematicket.club/tp2.php?c=1943&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="food-network-rus" group-title="Radio",FOOD NETWORK
-http://cinematicket.club/tp2.php?c=2145&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="StarTVE.cl" group-title="Radio",STAR TVE
-http://cinematicket.club/tp2.php?c=2375&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="DiscoveryTurbo.uk" group-title="Radio",DISCOVERY TURBO
-http://cinematicket.club/tp2.php?c=2379&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Radio",CURIOSITY STREAM
-http://cinematicket.club/tp2.php?c=2594&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="mtvlive-hd" group-title="Radio",MTV LIVE
-http://cinematicket.club/tp2.php?c=211&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="mtv-rus" group-title="Radio",MTV
-http://cinematicket.club/tp2.php?c=212&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="mtv-hits" group-title="Radio",MTV HITS SD
-http://cinematicket.club/tp2.php?c=213&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="vh-1-classic" group-title="Radio",VH1 CLASSIC SD
-http://cinematicket.club/tp2.php?c=214&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="vh1-europe" group-title="Radio",VH1 SD
-http://cinematicket.club/tp2.php?c=217&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Radio",TELEHIT URBANO SD
-http://cinematicket.club/tp2.php?c=218&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Radio",TELEHIT +
-http://cinematicket.club/tp2.php?c=220&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="Bandamax.mx" group-title="Radio",BANDAMAX SD
-http://cinematicket.club/tp2.php?c=221&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="AzClic.mx" group-title="Radio",AZ CLIC
-http://cinematicket.club/tp2.php?c=223&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="VH1UK.uk" group-title="Radio",VH1 HD
-http://cinematicket.club/tp2.php?c=334&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Radio",FOROTV HD
-http://cinematicket.club/tp2.php?c=4&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="FOROtv.us" group-title="Radio",FOROTV SD
-http://cinematicket.club/tp2.php?c=19&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Radio",ADN40
-http://cinematicket.club/tp2.php?c=40&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Radio",ADN 40 HD
-http://cinematicket.club/tp2.php?c=184&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="cnn" group-title="Radio",CNN
-http://cinematicket.club/tp2.php?c=185&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="cnn" group-title="Radio",CNN SD
-http://cinematicket.club/tp2.php?c=186&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Radio",CNN Ñ SD
-http://cinematicket.club/tp2.php?c=187&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="WOBI.ar" group-title="Radio",WOBI
-http://cinematicket.club/tp2.php?c=102&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Radio",FOXN EWS
-http://cinematicket.club/tp2.php?c=188&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="bloomberg" group-title="Radio",BLOOMBERG
-http://cinematicket.club/tp2.php?c=190&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="bbc" group-title="Radio",BBC SD
-http://cinematicket.club/tp2.php?c=191&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Radio",AL JAAZERA
-http://cinematicket.club/tp2.php?c=192&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="NTN24.us" group-title="Radio",NTN 24
-http://cinematicket.club/tp2.php?c=194&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Radio",JUSTICIA TV
-http://cinematicket.club/tp2.php?c=196&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="HLN.us" group-title="Radio",HLN
-http://cinematicket.club/tp2.php?c=197&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="DW.al" group-title="Radio",DW
-http://cinematicket.club/tp2.php?c=203&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="russia-today" group-title="Radio",RT
-http://cinematicket.club/tp2.php?c=999&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Radio",MILENIO HD
-http://cinematicket.club/tp2.php?c=1250&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="MilenioTV.mx" group-title="Radio",MILENIO SD
-http://cinematicket.club/tp2.php?c=1252&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="Cadena3.mx" group-title="Radio",EXCELSIOR TV
-http://cinematicket.club/tp2.php?c=1449&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Radio",EL FINANCIERO HD
-http://cinematicket.club/tp2.php?c=1649&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="RTEspanol.es" group-title="Radio",RT ESPAÑOL
-http://cinematicket.club/tp2.php?c=2091&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="france24" group-title="Radio",FRANCE 24
-http://cinematicket.club/tp2.php?c=2402&p=3&k=tecnotv&f=.m3u8
+*** INFANTILES ***
+#EXTINF:-1, TOONCAST
+http://roedor.xyz/SrRegio-Ag/tp.php?c=108&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, DISCOVERY KIDS
+http://roedor.xyz/SrRegio-Ag/tp.php?c=109&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, NICK
+http://roedor.xyz/SrRegio-Ag/tp.php?c=110&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, DISNEY XD
+http://roedor.xyz/SrRegio-Ag/tp.php?c=111&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, CARTOON NETWORK
+http://roedor.xyz/SrRegio-Ag/tp.php?c=112&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, DISNEY CHANNEL
+http://roedor.xyz/SrRegio-Ag/tp.php?c=113&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, BOOMERANG
+http://roedor.xyz/SrRegio-Ag/tp.php?c=115&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1, BABY TV 
+http://roedor.xyz/SrRegio-Ag/tp.php?c=116&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, NICK JR
+http://roedor.xyz/SrRegio-Ag/tp.php?c=117&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, DISNEY JR
+http://roedor.xyz/SrRegio-Ag/tp.php?c=118&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1, NICKTOONS SD 
+http://roedor.xyz/SrRegio-Ag/tp.php?c=1708&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, BABY FIRST
+http://roedor.xyz/SrRegio-Ag/tp.php?c=1984&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, NICK 2  
+http://roedor.xyz/SrRegio-Ag/tp.php?c=2147&p=3&k=srregio&f=.m3u8
+#EXTINF:-1, NAT GEO KIDS  
+http://roedor.xyz/SrRegio-Ag/tp.php?c=2373&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1, BIT ME  
+http://roedor.xyz/SrRegio-Ag/tp.php?c=2591&p=3&k=srregio&f=.m3u8
+
+*** CINE ***
+#EXTINF:-1, A3CINE 
+http://roedor.xyz/SrRegio-Ag/tp.php?c=3112&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1, TBS SD  
+http://roedor.xyz/SrRegio-Ag/tp.php?c=81&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1, DE PELICULA + 
+http://roedor.xyz/SrRegio-Ag/tp.php?c=121&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, GOLDEN +
+http://roedor.xyz/SrRegio-Ag/tp.php?c=122&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, GOLDEN
+http://roedor.xyz/SrRegio-Ag/tp.php?c=123&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, GOLDEN EDGE
+http://roedor.xyz/SrRegio-Ag/tp.php?c=124&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1, TNT 
+http://roedor.xyz/SrRegio-Ag/tp.php?c=126&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, TCM
+http://roedor.xyz/SrRegio-Ag/tp.php?c=128&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, SPACE
+http://roedor.xyz/SrRegio-Ag/tp.php?c=129&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, AMC 
+http://roedor.xyz/SrRegio-Ag/tp.php?c=131&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, STUDIO UNIVERSAL
+http://roedor.xyz/SrRegio-Ag/tp.php?c=132&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, I SAT  
+http://roedor.xyz/SrRegio-Ag/tp.php?c=135&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, EUROPA CHANNEL 
+http://roedor.xyz/SrRegio-Ag/tp.php?c=136&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, FILMS & ARTS
+http://roedor.xyz/SrRegio-Ag/tp.php?c=137&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, FXM
+http://roedor.xyz/SrRegio-Ag/tp.php?c=138&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, FXM SD 
+http://roedor.xyz/SrRegio-Ag/tp.php?c=332&p=3&k=srregio&f=.m3u8
+#EXTINF:-1, FOX SERIES
+http://roedor.xyz/SrRegio-Ag/tp.php?c=139&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, MORBIDO
+http://roedor.xyz/SrRegio-Ag/tp.php?c=140&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, FOX MOVIES 
+http://roedor.xyz/SrRegio-Ag/tp.php?c=146&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, CINECANAL
+http://roedor.xyz/SrRegio-Ag/tp.php?c=149&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, CINEMAX 
+http://roedor.xyz/SrRegio-Ag/tp.php?c=158&p=3&k=srregio&f=.m3u8
+#EXTINF:-1, AMC  
+http://roedor.xyz/SrRegio-Ag/tp.php?c=328&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, DE PELICULA SD
+http://roedor.xyz/SrRegio-Ag/tp.php?c=335&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, FOX ACTION
+http://roedor.xyz/SrRegio-Ag/tp.php?c=336&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1, PARAMOUNT CHANNEL 
+http://roedor.xyz/SrRegio-Ag/tp.php?c=1726&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, FOX CINEMA SD
+http://roedor.xyz/SrRegio-Ag/tp.php?c=1729&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, FOX CLASSICS SD
+http://roedor.xyz/SrRegio-Ag/tp.php?c=1732&p=3&k=srregio&f=.m3u8
+#EXTINF:-1, AZ CINEMA 
+http://roedor.xyz/SrRegio-Ag/tp.php?c=1787&p=3&k=srregio&f=.m3u8 
+
+*** ENTRETENIMIENTO ***
+#EXTINF:-1, TELEMUNDO INTERNACIONAL HD
+http://roedor.xyz/SrRegio-Ag/tp.php?c=85&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, FOX  
+http://roedor.xyz/SrRegio-Ag/tp.php?c=46&p=3&k=srregio&f=.m3u8
+#EXTINF:-1, SONY  
+http://roedor.xyz/SrRegio-Ag/tp.php?c=48&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, WARNER  
+http://roedor.xyz/SrRegio-Ag/tp.php?c=52&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, E!
+http://roedor.xyz/SrRegio-Ag/tp.php?c=55&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, UNIVERSAL
+http://roedor.xyz/SrRegio-Ag/tp.php?c=57&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, SYFY
+http://roedor.xyz/SrRegio-Ag/tp.php?c=59&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, FX
+http://roedor.xyz/SrRegio-Ag/tp.php?c=60&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, A&E
+http://roedor.xyz/SrRegio-Ag/tp.php?c=62&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, AXN
+http://roedor.xyz/SrRegio-Ag/tp.php?c=64&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, UNICABLE SD
+http://roedor.xyz/SrRegio-Ag/tp.php?c=66&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, SUNDANCE TV
+http://roedor.xyz/SrRegio-Ag/tp.php?c=69&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1, TNT SERIES
+http://roedor.xyz/SrRegio-Ag/tp.php?c=71&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1, GLITZ
+http://roedor.xyz/SrRegio-Ag/tp.php?c=76&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1, GOURMET 
+http://roedor.xyz/SrRegio-Ag/tp.php?c=74&p=3&k=srregio&f=.m3u8
+#EXTINF:-1, FOX LIFE
+http://roedor.xyz/SrRegio-Ag/tp.php?c=77&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, DISTRITO COMEDIA SD
+http://roedor.xyz/SrRegio-Ag/tp.php?c=78&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, TRUTV
+http://roedor.xyz/SrRegio-Ag/tp.php?c=79&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1, TL NOVELAS SD
+http://roedor.xyz/SrRegio-Ag/tp.php?c=83&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, LIFETIME 
+http://roedor.xyz/SrRegio-Ag/tp.php?c=94&p=3&k=srregio&f=.m3u8
+#EXTINF:-1, ANTENA 3
+http://roedor.xyz/SrRegio-Ag/tp.php?c=199&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, FOX HD 
+http://roedor.xyz/SrRegio-Ag/tp.php?c=201&p=3&k=srregio&f=.m3u8
+#EXTINF:-1, WARNER HD 
+http://roedor.xyz/SrRegio-Ag/tp.php?c=205&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, UNIVERSAL HD
+http://roedor.xyz/SrRegio-Ag/tp.php?c=207&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, FX HD
+http://roedor.xyz/SrRegio-Ag/tp.php?c=209&p=3&k=srregio&f=.m3u8
+#EXTINF:-1, TRUTV HD
+http://roedor.xyz/SrRegio-Ag/tp.php?c=215&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, HOLA TV HD
+http://roedor.xyz/SrRegio-Ag/tp.php?c=219&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1, COMEDY CENTRAL
+http://roedor.xyz/SrRegio-Ag/tp.php?c=340&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, COMEDY CENTRAL SD
+http://roedor.xyz/SrRegio-Ag/tp.php?c=341&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1, UNICABLE
+http://roedor.xyz/SrRegio-Ag/tp.php?c=1499&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, MAS CHIC
+http://roedor.xyz/SrRegio-Ag/tp.php?c=1842&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, A3SERIES
+http://roedor.xyz/SrRegio-Ag/tp.php?c=2113&p=3&k=srregio&f=.m3u8 
+
+*** DEPORTES ***
+#EXTINF:-1, ESPN + 
+http://roedor.xyz/SrRegio-Ag/tp.php?c=167&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1, ESPN 
+http://roedor.xyz/SrRegio-Ag/tp.php?c=168&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, ESPN 2
+http://roedor.xyz/SrRegio-Ag/tp.php?c=169&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, FOX SPORTS
+http://roedor.xyz/SrRegio-Ag/tp.php?c=170&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, FOX SPORTS 2
+http://roedor.xyz/SrRegio-Ag/tp.php?c=172&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, TUDN
+http://roedor.xyz/SrRegio-Ag/tp.php?c=174&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, FOX SPORTS 3 
+http://roedor.xyz/SrRegio-Ag/tp.php?c=178&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, GOLF
+http://roedor.xyz/SrRegio-Ag/tp.php?c=179&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, AYM SPORTS
+http://roedor.xyz/SrRegio-Ag/tp.php?c=180&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1, ESPN 3 
+http://roedor.xyz/SrRegio-Ag/tp.php?c=345&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, TUDN HD (2)
+http://roedor.xyz/SrRegio-Ag/tp.php?c=1049&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1, ADRENALINA SPORTS HD
+http://roedor.xyz/SrRegio-Ag/tp.php?c=1799&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, LAS
+http://roedor.xyz/SrRegio-Ag/tp.php?c=2089&p=3&k=srregio&f=.m3u8
+#EXTINF:-1, HAVOC
+http://roedor.xyz/SrRegio-Ag/tp.php?c=2148&p=3&k=srregio&f=.m3u8
+#EXTINF:-1, TVC DEPORTES
+http://roedor.xyz/SrRegio-Ag/tp.php?c=2157&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, CLARO SPORTS HD  
+http://roedor.xyz/SrRegio-Ag/tp.php?c=2564&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, FUEL TV HD 
+http://roedor.xyz/SrRegio-Ag/tp.php?c=2587&p=3&k=srregio&f=.m3u8 
+
+*** CULTURALES ***
+#EXTINF:-1, DISCOVERY ID
+http://roedor.xyz/SrRegio-Ag/tp.php?c=68&p=3&k=srregio&f=.m3u8  
+ #EXTINF:-1, GARAGE TV 
+http://roedor.xyz/SrRegio-Ag/tp.php?c=75&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, DISCOVERY CHANNEL
+http://roedor.xyz/SrRegio-Ag/tp.php?c=86&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, ANIMAL PLANET
+http://roedor.xyz/SrRegio-Ag/tp.php?c=88&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, HISTORY
+http://roedor.xyz/SrRegio-Ag/tp.php?c=89&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, NAT GEO  
+http://roedor.xyz/SrRegio-Ag/tp.php?c=91&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, NAT GEO WILD
+http://roedor.xyz/SrRegio-Ag/tp.php?c=92&p=3&k=srregio&f=.m3u8
+#EXTINF:-1, DISCOVERY THEATER
+http://roedor.xyz/SrRegio-Ag/tp.php?c=95&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1, H&H
+http://roedor.xyz/SrRegio-Ag/tp.php?c=96&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1, TLC
+http://roedor.xyz/SrRegio-Ag/tp.php?c=97&p=3&k=srregio&f=.m3u8
+#EXTINF:-1, DISCOVERY SCIENCE  
+http://roedor.xyz/SrRegio-Ag/tp.php?c=98&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, DISCOVERY CIVILIZATION
+http://roedor.xyz/SrRegio-Ag/tp.php?c=99&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, DISCOVERY WORLD
+http://roedor.xyz/SrRegio-Ag/tp.php?c=101&p=3&k=srregio&f=.m3u8
+#EXTINF:-1, TVE
+http://roedor.xyz/SrRegio-Ag/tp.php?c=198&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1, SHOPPING
+http://roedor.xyz/SrRegio-Ag/tp.php?c=1943&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1, FOOD NETWORK 
+http://roedor.xyz/SrRegio-Ag/tp.php?c=2145&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1, STAR TVE 
+http://roedor.xyz/SrRegio-Ag/tp.php?c=2375&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1, DISCOVERY TURBO
+http://roedor.xyz/SrRegio-Ag/tp.php?c=2379&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, CURIOSITY STREAM
+http://roedor.xyz/SrRegio-Ag/tp.php?c=2594&p=3&k=srregio&f=.m3u8  
+
+*** MUSICA ***
+#EXTINF:-1, MTV LIVE
+http://roedor.xyz/SrRegio-Ag/tp.php?c=211&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, MTV
+http://roedor.xyz/SrRegio-Ag/tp.php?c=212&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, MTV HITS SD
+http://roedor.xyz/SrRegio-Ag/tp.php?c=213&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, VH1 CLASSIC SD
+http://roedor.xyz/SrRegio-Ag/tp.php?c=214&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1, VH1 SD 
+http://roedor.xyz/SrRegio-Ag/tp.php?c=217&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, TELEHIT URBANO SD
+http://roedor.xyz/SrRegio-Ag/tp.php?c=218&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1, TELEHIT +
+http://roedor.xyz/SrRegio-Ag/tp.php?c=220&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, BANDAMAX SD
+http://roedor.xyz/SrRegio-Ag/tp.php?c=221&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, AZ CLIC
+http://roedor.xyz/SrRegio-Ag/tp.php?c=223&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1, VH1 HD
+http://roedor.xyz/SrRegio-Ag/tp.php?c=334&p=3&k=srregio&f=.m3u8  
+
+
+*** NOTICIAS ***
+#EXTINF:-1, FOROTV HD
+http://roedor.xyz/SrRegio-Ag/tp.php?c=4&p=3&k=srregio&f=.m3u8
+#EXTINF:-1, FOROTV SD
+http://roedor.xyz/SrRegio-Ag/tp.php?c=19&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1, ADN40
+http://roedor.xyz/SrRegio-Ag/tp.php?c=40&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1, ADN 40 HD
+http://roedor.xyz/SrRegio-Ag/tp.php?c=184&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, CNN
+http://roedor.xyz/SrRegio-Ag/tp.php?c=185&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, CNN SD
+http://roedor.xyz/SrRegio-Ag/tp.php?c=186&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, CNN Ã‘ SD
+http://roedor.xyz/SrRegio-Ag/tp.php?c=187&p=3&k=srregio&f=.m3u8
+#EXTINF:-1, WOBI 
+http://roedor.xyz/SrRegio-Ag/tp.php?c=102&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1, FOXN EWS
+http://roedor.xyz/SrRegio-Ag/tp.php?c=188&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, BLOOMBERG 
+http://roedor.xyz/SrRegio-Ag/tp.php?c=190&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, BBC SD
+http://roedor.xyz/SrRegio-Ag/tp.php?c=191&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1, AL JAAZERA 
+http://roedor.xyz/SrRegio-Ag/tp.php?c=192&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, NTN 24
+http://roedor.xyz/SrRegio-Ag/tp.php?c=194&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, JUSTICIA TV 
+http://roedor.xyz/SrRegio-Ag/tp.php?c=196&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1, HLN
+http://roedor.xyz/SrRegio-Ag/tp.php?c=197&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1, DW 
+http://roedor.xyz/SrRegio-Ag/tp.php?c=203&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, RT
+http://roedor.xyz/SrRegio-Ag/tp.php?c=999&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, MILENIO HD
+http://roedor.xyz/SrRegio-Ag/tp.php?c=1250&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, MILENIO SD 
+http://roedor.xyz/SrRegio-Ag/tp.php?c=1252&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, EXCELSIOR TV
+http://roedor.xyz/SrRegio-Ag/tp.php?c=1449&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, EL FINANCIERO HD 
+http://roedor.xyz/SrRegio-Ag/tp.php?c=1649&p=3&k=srregio&f=.m3u8  
+ #EXTINF:-1, RT ESPAÃ‘OL
+http://roedor.xyz/SrRegio-Ag/tp.php?c=2091&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1, FRANCE 24
+http://roedor.xyz/SrRegio-Ag/tp.php?c=2402&p=3&k=srregio&f=.m3u8 
